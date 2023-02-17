@@ -23,6 +23,11 @@ a {
     font-weight: bold;
 }
 
+.font-blue-bold {
+    color: blue;
+    font-weight: bold;
+}
+
 .logo_tech {
     width: 75px;
     height: 65px;
@@ -32,5 +37,10 @@ a {
     border-left: 2px solid #5C6170;
     display: inline-block;
     height: 270px;
+    color: #5C6170;
     
   }
+
+#detail_competences:hover {
+    text-decoration: underline;
+}
