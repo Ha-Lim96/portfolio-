@@ -18,6 +18,10 @@ a {
     text-decoration: none;
 }
 
+a :hover {
+    text-decoration: underline;
+}
+
 .font-secondary-bold {
     color: #5C6170;
     font-weight: bold;
@@ -41,6 +45,3 @@ a {
     
   }
 
-#detail_competences:hover {
-    text-decoration: underline;
-}
